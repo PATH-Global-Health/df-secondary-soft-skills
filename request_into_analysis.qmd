@@ -2,5 +2,6 @@
 
 In this section of the Secondary Soft Skills module for the MACEPA Data Fellowship Program, we are going to focus on the tricky but important task of distilling actionable insights from vague requests, a standard in the global health and malaria working environment.
 
-<iframe src="Turning request into analysis.pdf" width="800" height="600"> </iframe>
+<iframe src="Turning request into analysis.pdf" width="800" height="600">
 
+</iframe>

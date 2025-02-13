@@ -6,7 +6,8 @@ book:
   subtitle: "MACEPA Data Fellowship Training Program"
   chapters: 
     - index.qmd
-    - request_into_analysis.qmd 
+    - request_into_analysis.qmd
+    - paper.qmd 
   
 format:
   html:
