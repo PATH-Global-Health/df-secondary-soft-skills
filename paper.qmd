@@ -1,0 +1,7 @@
+## `Turning an analysis into paper`{=html}
+
+In this section of the Secondary Soft Skills module for the MACEPA Data Fellowship Program, we are going to focus steps for taking an internal analysis and preparing a manuscript.
+
+<iframe src="Turning analysis into paper.pdf" width="800" height="600">
+
+</iframe>
