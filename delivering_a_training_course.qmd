@@ -1,0 +1,7 @@
+## Delivering a training course 101
+
+In this section of the Secondary Soft Skills module for the MACEPA Data Fellowship Program, we share some tips and best practices for designing and running a training course for R or other data analysis skills.
+
+<iframe src="Teaching module_Final.pdf" width="800" height="600">
+
+</iframe>

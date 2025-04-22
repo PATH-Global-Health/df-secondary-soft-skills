@@ -9,6 +9,7 @@ book:
     - request_into_analysis.qmd
     - storytelling_with_slides.qmd
     - paper.qmd 
+    - delivering_a_training_course.qmd
 
 format:
   html:
